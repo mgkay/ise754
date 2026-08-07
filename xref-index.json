@@ -573,60 +573,6 @@
    "word": "Ex."
   }
  },
- "2.3": {
-  "eq-lp": {
-   "label": "Eq. 1",
-   "word": "Eq."
-  },
-  "eq-rectilinear": {
-   "label": "Eq. 2",
-   "word": "Eq."
-  },
-  "eq-euclidean": {
-   "label": "Eq. 3",
-   "word": "Eq."
-  },
-  "eq-chebychev": {
-   "label": "Eq. 4",
-   "word": "Eq."
-  },
-  "eq-gc": {
-   "label": "Eq. 5",
-   "word": "Eq."
-  },
-  "eq-degrad": {
-   "label": "Eq. 6",
-   "word": "Eq."
-  },
-  "fig-metric-lp": {
-   "label": "Fig. 1",
-   "word": "Fig."
-  },
-  "fig-chebychev": {
-   "label": "Fig. 2",
-   "word": "Fig."
-  },
-  "fig-greatcircle": {
-   "label": "Fig. 3",
-   "word": "Fig."
-  },
-  "fig-mercator": {
-   "label": "Fig. 4",
-   "word": "Fig."
-  },
-  "fig-nc-minisum": {
-   "label": "Fig. 5",
-   "word": "Fig."
-  },
-  "fig-fedex": {
-   "label": "Fig. 6",
-   "word": "Fig."
-  },
-  "example-1": {
-   "label": "Ex. 1",
-   "word": "Ex."
-  }
- },
  "3.3": {
   "eq-eoq-tl": {
    "label": "Eq. 1",
